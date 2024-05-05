@@ -15,6 +15,7 @@ adventure!
 
 
 
+https://github.com/veerapatadia/lucky_Throw/assets/150000048/7573ff30-9885-4610-bd3a-3de9526efde7
 ![Screenshot_20240501_001407](https://github.com/veerapatadia/lucky_Throw/assets/150000048/5429f089-a1be-4ef6-b86c-274eb6e6524e)
 
 
