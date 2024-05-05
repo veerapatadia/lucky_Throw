@@ -14,10 +14,8 @@ dice, tap the button, and let the luck unfold in this addictive and fun-filled d
 adventure!
 
 
-
-https://github.com/veerapatadia/lucky_Throw/assets/150000048/3eeea470-3205-47a4-923b-6ebb0df256b3
 ![Screenshot_20240501_001407](https://github.com/veerapatadia/lucky_Throw/assets/150000048/5429f089-a1be-4ef6-b86c-274eb6e6524e)
-
+https://github.com/veerapatadia/lucky_Throw/assets/150000048/3eeea470-3205-47a4-923b-6ebb0df256b3
 
 
 
