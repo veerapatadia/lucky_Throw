@@ -13,9 +13,7 @@ winning throw. Whether you're aiming for high scores or chasing that elusive luc
 dice, tap the button, and let the luck unfold in this addictive and fun-filled dice game
 adventure!
 
-
-
-https://github.com/veerapatadia/lucky_Throw/assets/150000048/7573ff30-9885-4610-bd3a-3de9526efde7
+https://github.com/veerapatadia/lucky_Throw/assets/150000048/c5cf42be-b828-4ca7-b326-318cb7cadbde
 ![Screenshot_20240501_001407](https://github.com/veerapatadia/lucky_Throw/assets/150000048/5429f089-a1be-4ef6-b86c-274eb6e6524e)
 
 
